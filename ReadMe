@@ -1,0 +1,37 @@
+This Project has two testcase:
+
+Testcase 1:
+Form submission with valid inputs.
+
+Testcase 2:
+Form submission with empty fields and also verify the required fields.
+
+
+
+Libraries and Packages Used:
+1. Nunit
+2. NUnit3TestAdapter
+3. Selenium.WebDriver
+4. DotNetSeleniumExtras.WaitHelpers
+
+
+Browser Used:
+Google Chrome (Version 89.0.4389.114 (Official Build) (64-bit))
+
+
+Chrome Driver Used:
+ChromeDriver 89.0.4389.23
+
+
+Note: I used ChromeDriver verion accoring to my Google Chrome verion, kindly download use ChromeDriver accoring to your Google chrome version.
+Chrome Driver Download Link:https://chromedriver.chromium.org/downloads
+
+
+ChromeDriver executable path setting:
+In Class TestCases and Method Start my ChromeDriver executable path is "F:\\Chrome", please change according to your computer path.
+
+
+Execution:
+This Project Consists of two test cases, run the test cases from Test Explorer.Test cases are in TestCases Class.
+
+
