@@ -1,3 +1,5 @@
+Note: Build Project first, 
+
 This Project has two testcase:
 
 Testcase 1:
@@ -13,6 +15,7 @@ Libraries and Packages Used:
 2. NUnit3TestAdapter
 3. Selenium.WebDriver
 4. DotNetSeleniumExtras.WaitHelpers
+
 
 
 Browser Used:
